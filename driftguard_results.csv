@@ -1,0 +1,4 @@
+Method,Average AUROC,Average AUPRC
+Static,0.4617,0.1145
+Naive Continual,0.4468,0.1224
+Replay Continual,0.4627,0.1225
